@@ -1,0 +1,18 @@
+{
+  "name": "responsive-patterns",
+  "version": "1.0.0",
+  "description": "pluralsight class - bootstrap 3",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/thiagodevx/responsive-websites-with-bootstrap3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.2.0",
+    "jquery": "^1.9.1"
+  }
+}
